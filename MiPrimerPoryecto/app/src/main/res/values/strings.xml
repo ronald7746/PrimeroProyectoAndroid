@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiPrimerPoryecto</string>
+    <string name="texto">Bienvenido</string>
+    <string name="bt1">Entrar</string>
+</resources>
